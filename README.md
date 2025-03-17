@@ -58,7 +58,12 @@ mvn spring-boot:run
 - No database is required unless storing bookings is needed.
 
 ## 📷 Screenshots (Optional)
-_Add screenshots of the website here_
+![image](https://github.com/user-attachments/assets/40100a92-f224-4ab3-b02c-74c7740ecfea)
+![image](https://github.com/user-attachments/assets/3b0f9758-4f3b-4f79-a603-e863aa43a96c)
+![image](https://github.com/user-attachments/assets/e85e445b-7b27-4c6a-9cc1-9ab064b87da8)
+![image](https://github.com/user-attachments/assets/f85fe958-d7d5-44c6-9ab8-626c31a30198)
+![image](https://github.com/user-attachments/assets/b4e45b1a-f206-4075-a098-39820403c302)
+
 
 ## ✨ Future Enhancements
 - Add authentication (optional)
