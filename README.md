@@ -57,7 +57,7 @@ mvn spring-boot:run
 - JavaMailSender sends an email to the owner with booking info.
 - No database is required unless storing bookings is needed.
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots 
 ![image](https://github.com/user-attachments/assets/40100a92-f224-4ab3-b02c-74c7740ecfea)
 ![image](https://github.com/user-attachments/assets/3b0f9758-4f3b-4f79-a603-e863aa43a96c)
 ![image](https://github.com/user-attachments/assets/e85e445b-7b27-4c6a-9cc1-9ab064b87da8)
